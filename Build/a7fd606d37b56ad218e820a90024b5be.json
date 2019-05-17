@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "noah-unity-playground-sword-baskets",
+"dataUrl": "ccdf544bd7e502e7cb182ecff06d6435.unityweb",
+"wasmCodeUrl": "43fa400e573065d6b069e9d0b8355b31.unityweb",
+"wasmFrameworkUrl": "02d9e22f72c5d77cfdfbd2833f0c34b6.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728",
+"cacheControl": {"default": "must-revalidate"}
+}
